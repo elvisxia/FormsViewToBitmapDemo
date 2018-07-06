@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsViewToBitmapDemo.Android", "FormsViewToBitmapDemo\FormsViewToBitmapDemo.Android\FormsViewToBitmapDemo.Android.csproj", "{C2E9C71D-4D3F-4026-88E5-379DBAC62C0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsViewToBitmapDemo", "FormsViewToBitmapDemo\FormsViewToBitmapDemo\FormsViewToBitmapDemo.csproj", "{C0A61E94-011C-47DF-9DB0-27B39D42FCD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2E9C71D-4D3F-4026-88E5-379DBAC62C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2E9C71D-4D3F-4026-88E5-379DBAC62C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2E9C71D-4D3F-4026-88E5-379DBAC62C0D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C2E9C71D-4D3F-4026-88E5-379DBAC62C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2E9C71D-4D3F-4026-88E5-379DBAC62C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2E9C71D-4D3F-4026-88E5-379DBAC62C0D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C0A61E94-011C-47DF-9DB0-27B39D42FCD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0A61E94-011C-47DF-9DB0-27B39D42FCD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0A61E94-011C-47DF-9DB0-27B39D42FCD5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C0A61E94-011C-47DF-9DB0-27B39D42FCD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0A61E94-011C-47DF-9DB0-27B39D42FCD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0A61E94-011C-47DF-9DB0-27B39D42FCD5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAAF87B2-3B39-4FBE-98F6-496D976E9A6F}
+	EndGlobalSection
+EndGlobal
